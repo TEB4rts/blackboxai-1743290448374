@@ -1,0 +1,23 @@
+{
+  "name": "btc-autominer-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for BTC AutoMiner - A transparent browser-based cryptocurrency mining platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-router-dom": "^6.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-react-app": "^7.0.1"
+  }
+}
